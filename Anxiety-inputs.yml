@@ -1,0 +1,57 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/anxiety-unspecified---icd.py
+inputModule3:
+  class: File
+  path: python/panic-anxiety---icd.py
+inputModule4:
+  class: File
+  path: python/anxiety-generalized---icd.py
+inputModule5:
+  class: File
+  path: python/anxiety-conversion---icd.py
+inputModule6:
+  class: File
+  path: python/anxiety-agoraphobia---icd.py
+inputModule7:
+  class: File
+  path: python/social-anxiety---icd.py
+inputModule8:
+  class: File
+  path: python/anxiety-hypochondriasis---icd.py
+inputModule9:
+  class: File
+  path: python/anxiety---icd.py
+inputModule10:
+  class: File
+  path: python/anxiety-deficit---icd.py
+inputModule11:
+  class: File
+  path: python/hypochondriacal-anxiety---icd.py
+inputModule12:
+  class: File
+  path: python/anxiety-desensitization---primary.py
+inputModule13:
+  class: File
+  path: python/anxiety-regime---primary.py
+inputModule14:
+  class: File
+  path: python/anxiety-behavior---primary.py
+inputModule15:
+  class: File
+  path: python/technique-anxiety---primary.py
+inputModule16:
+  class: File
+  path: python/anxiety-exposure---primary.py
+inputModule17:
+  class: File
+  path: python/anxiety-counseling---primary.py
+inputModule18:
+  class: File
+  path: python/anxiety-management---primary.py
+inputModule19:
+  class: File
+  path: python/output-cases.py
